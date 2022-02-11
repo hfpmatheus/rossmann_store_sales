@@ -1,0 +1,6 @@
+[submodule "rossmann-predictor"]
+	path = rossmann-predictor
+	url = https://git.heroku.com/rossmann-predictor.git
+[submodule "rossmann-predictor-telegram"]
+	path = rossmann-predictor-telegram
+	url = https://git.heroku.com/rossmann-predictor-telegram.git
