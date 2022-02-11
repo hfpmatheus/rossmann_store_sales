@@ -1,0 +1,6 @@
+[submodule "new_web_app"]
+	path = new_web_app
+	url = https://git.heroku.com/rossmann-predictor.git
+[submodule "rossmann_telegram_api"]
+	path = rossmann_telegram_api
+	url = https://git.heroku.com/rossmann-predictor-telegram.git
