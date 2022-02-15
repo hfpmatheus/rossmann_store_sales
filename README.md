@@ -4,7 +4,7 @@
 
 ## Descrição: 
 
-Esse projeto é baseado num desafio do Kaggle cujo contexto é prever as vendas das próximas seis semanas para uma rede de fármacias (Rossmann) que atua em 7 países europeus com mais de 3000 lojas. Para isso, utilizei o modelo de regressão linear, seguindo a metodologia CRISP-DS para rápida entrega de resultado.
+Esse projeto é baseado num desafio do Kaggle cujo contexto é prever as vendas das próximas seis semanas para uma rede de farmácias (Rossmann) que atua em 7 países europeus com mais de 3000 lojas. Para isso, utilizei o modelo de regressão linear, seguindo a metodologia CRISP-DS para rápida entrega de resultado.
 
 ## 1.0. Contexto:
 
@@ -49,7 +49,7 @@ Utilização do algoritmo Boruta, em conjunto com o conhecimento obtido na anál
 ### 3.6. Modelos de Machine Learning:
 Aplicação dos modelos de Machine Learning com Cross-Validation para definir o que apresenta melhor resultado.
 ### 3.7. Tradução dos erros: 
-Conversão dos erros do modelo para resultados financeiros de negócio.
+Conversão dos erros do modelo escolhido para resultados financeiros de negócio.
 ### 3.8. Deploy:
 Deploy do script na nuvem Heroku para tornar o modelo acessível em outras máquinas e construção do bot no telegram.
 
@@ -75,13 +75,13 @@ Com a solução elaborada no projeto, a rede Rossmann tem como esperada a receit
 
 <img src="img/business_results.png" alt="drawing" width="40%"/>
 
-A previsão individual de cada loja pode ser consultada pelo Telegram, conforme demonstração mostrada [aqui](https://youtube.com/shorts/iXpcF_Y6k0g?feature=share). Com isso, resolvemos nossa questão de negócio, visto que o CFO pode, a qualquer momento, consultar a receita que está por vir para cacular o budget da reforma para cada uma das lojas.
+A previsão individual de cada loja pode ser consultada pelo Telegram, conforme a [demonstração](https://youtube.com/shorts/iXpcF_Y6k0g?feature=share). Com isso, resolvemos nossa questão de negócio, visto que o CFO pode, a qualquer momento, consultar a receita que está por vir para cacular o budget da reforma para cada uma das lojas.
 
 
 ## 6.0. Próximos passos:
 
 - Coletar feedbacks sobre a usabilidade do produto de dados com os colaboradores;
-- Fazer outro ciclo CRISP-DS para diminuir os erros do modelo;
+- Fazer outro ciclo CRISP-DS para diminuir os erros do modelo.
 
 ## 7.0. Referências:
 
