@@ -75,7 +75,8 @@ Com a solução elaborada no projeto, a rede Rossmann tem como esperada a receit
 
 <img src="img/business_results.png" alt="drawing" width="40%"/>
 
-A previsão individual de cada loja pode ser consultada pelo Telegram, conforme demonstração mostrada [aqui]()
+A previsão individual de cada loja pode ser consultada pelo Telegram, conforme demonstração mostrada [aqui](). Com isso, resolvemos nossa questão de negócio, visto que o CFO pode, a qualquer momento, consultar a receita que está por vir para cacular o budget da reforma para cada uma das lojas.
+
 
 ## 6.0. Próximos passos:
 
