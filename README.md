@@ -4,7 +4,7 @@
 
 ## Descrição: 
 
-Esse projeto é baseado num desafio do Kaggle cujo contexto é prever as vendas das próximas seis semanas para uma rede de farmácias (Rossmann) que atua em 7 países europeus com mais de 3000 lojas. Para isso, utilizei o modelo de regressão linear, seguindo a metodologia CRISP-DS para rápida entrega de resultado.
+Esse projeto é baseado num desafio do Kaggle cujo contexto é prever as vendas das próximas seis semanas para uma rede de farmácias (Rossmann) que atua em 7 países europeus com mais de 3000 lojas. Para isso, utilizei o método de regressão, seguindo a metodologia CRISP-DS para rápida entrega de resultado.
 
 ## 1.0. Contexto:
 
